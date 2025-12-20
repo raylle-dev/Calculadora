@@ -28,3 +28,6 @@ Permite realizar operações básicas de forma prática e rápida, ideal para tr
 
 ```bash
 https://raylle-dev.github.io/Calculadora/
+## 📄 Licença
+
+Este projeto está sob a licença **MIT**. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
